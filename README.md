@@ -17,6 +17,9 @@ My personal goals are
 - understand JavaScript better
 - learn more technologies/tools used to facilitate the back-end development process
 
+## Architectural Diagram
+![Architectural diagram for the project](/images/architectural-diagram.svg)
+
 ## Credits
 
 This project is part of the [Complete Node.js Developer: Zero to Mastery](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/) course created by the [Zero to Mastery Academy](https://zerotomastery.io/). The instructors in this course are [Adam Odziemkowski](https://github.com/odziem) and [Andrei Neagoie](https://github.com/aneagoie/).
