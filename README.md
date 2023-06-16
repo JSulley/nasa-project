@@ -2,15 +2,20 @@
 
 ## Description
 
-I've been curious about the backend realm and wanted to learn more about it. At the same time, I wanted to appreciate and practice JavaScript more. I stumbled upon Node.js and have heard about its capabilities and other tools used with it such as Express.js.
-This full-stack application will mainly focus on the backend.
-The project goal is to build a Node API that allows users to schedule missions with the destination being a Kepler Exoplanet that's considered habitable.
+I've been curious about the back-end realm and wanted to learn more about it. At the same time, I want to appreciate and practice JavaScript more. I stumbled upon Node.js and heard about its capabilities and tools like Express.js. The course I decided to learn more about Node.js was Complete Node.js Developer: Zero to Mastery, where the project stems from (see [Credits](#credits) for more information). Despite this project being a full-stack application, the focus is developing the server component and connecting the front end to the back end.
 
-So far, I've learned about asynchronous JavaScript concepts such as promises and `async await`. I've also learned Node.js Fundamentals such as the Module System and Package Management.
-My personal goals are...
-- To solidify the knowledge gained (so far) from the Node.js course (see [Credits](#credits)) I'm taking
-- Understand JavaScript better
-- Learn more technologies/tools that are used to facilitate the backend development process
+The project goal: to build a Node API that allows users to schedule missions with the destination being a habitable Kepler Exoplanet.
+
+So far, I've learned
+- asynchronous JavaScript concepts (e.g., promises and `async await`)
+- Node.js fundamentals (e.g., module system and package management)
+- back-end concepts (e.g., HTTP methods, requests and responses, and routing)
+- how to leverage Express.js to handle requests in a modular structure
+
+My personal goals are
+- to solidify the knowledge gained (so far) from the course
+- understand JavaScript better
+- learn more technologies/tools used to facilitate the back-end development process
 
 ## Credits
 
