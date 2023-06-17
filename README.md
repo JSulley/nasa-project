@@ -20,6 +20,7 @@ My personal goals are
 ## Architectural Diagram
 ![Architectural diagram for the project](/images/architectural-diagram.svg)
 
+Additionally, the application will be designed using the Model-View-Controller (MVC) pattern.
 ## Credits
 
 This project is part of the [Complete Node.js Developer: Zero to Mastery](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/) course created by the [Zero to Mastery Academy](https://zerotomastery.io/). The instructors in this course are [Adam Odziemkowski](https://github.com/odziem) and [Andrei Neagoie](https://github.com/aneagoie/).
